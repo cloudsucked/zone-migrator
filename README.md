@@ -18,3 +18,10 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt 
 ```
+
+
+
+
+TODO: 
+Convert this script to command line util (not interactive)
+https://click.palletsprojects.com/en/7.x/
