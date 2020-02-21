@@ -2,6 +2,7 @@ import json
 import os
 import click
 import CloudFlare
+import click
 import requests
 
 
